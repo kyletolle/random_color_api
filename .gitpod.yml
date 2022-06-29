@@ -1,3 +1,7 @@
+# Need this image line as mentioned on
+# https://www.gitpod.io/docs/languages/deno/
+image:
+  file: .gitpod.Dockerfile
 tasks:
   - init: |
       echo 'TODO: build project'
