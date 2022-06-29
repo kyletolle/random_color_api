@@ -1,8 +1,8 @@
 # random_color_api
 
-An api that generates hex random colors
+An API that generates hex random colors. Check out the demo at https://kyletolle-random-color-api.deno.dev/.
 
-This is a Deno app, developed on Gitpod, and run on Deno Deploy. Check out the demo at https://dash.deno.com/projects/kyletolle-random-color-api.
+This is a Deno app, developed on Gitpod, and run on Deno Deploy.
 
 ## Installing
 
