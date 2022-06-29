@@ -22,7 +22,7 @@ When VS Code prompts you that a service is available on port 8000, click `Open P
 
 Make sure the Deno extension is installe and enabled. That'll help with autocomplete while you write code. Since the deno run command is watching the file changes, you can refresh the page after each change to see the progress you're making.
 
-# Deploying
+## Deploying
 
 Go sign up for a free account at [Deno Deploy](https://deno.com/deploy) and link it to your GitHub. Create a new project from the repo on GitHub (`main.ts` is the file Deno should run) and then Deno Deploy will take are of deploying every time you push code to the git repo. The deployments happen in under 10 seconds, so that's insane!
 
