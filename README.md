@@ -13,7 +13,7 @@ Developed with [Gitpod](https://www.gitpod.io/). Sign up for a free account ther
 Within the Gitpod workspace, You can run the code locally by running the following in the terminal
 
 ```
-deno run --watch --allow-net main.ts
+deno task start
 ```
 
 When VS Code prompts you that a service is available on port 8000, click `Open Preview`. This opens a `Simple Browser` window in VS Code to show you the site and it'll allow you to refresh the page after each change to see those changes.
