@@ -20,7 +20,7 @@ When VS Code prompts you that a service is available on port 8000, click `Open P
 
 ## Developing
 
-Make sure the Deno extension is installe and enabled. That'll help with autocomplete while you write code. Since the deno run command is watching the file changes, you can refresh the page after each change to see the progress you're making.
+Make sure the Deno extension is installed and enabled. That'll help with autocomplete while you write code. Since the deno run command is watching the file changes, you can refresh the page after each change to see the progress you're making.
 
 ## Deploying
 
